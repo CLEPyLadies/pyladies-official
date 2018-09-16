@@ -22,19 +22,19 @@ Here are a few steps to help you get started:
 `Title: {{ your awesome title here }}`
 and may have any/all of the following metadata:
 
-`Date: 2010-12-03 10:20
+`Date: 2010-12-03 10:20`
 
-Modified: 2020-12-05 19:30
+`Modified: 2020-12-05 19:30`
 
-Category: Blog # PLEASE CHOOSE AN EXISTING CATEGORY - We may edit your category if it does not match our menu bar.
+`Category: Blog # PLEASE CHOOSE AN EXISTING CATEGORY - We may edit your category if it does not match our menu bar.`
 
-Tags: pelican, publishing # Choose any tags you like! Tag it up!
+`Tags: pelican, publishing # Choose any tags you like! Tag it up!`
 
-Slug: my-super-post # Defaults to your title, but you may set it directly.
+`Slug: my-super-post # Defaults to your title, but you may set it directly.`
 
-Authors: Cleveland PyLadies, Floaty McFloatFace # Own it, lady!
+`Authors: Cleveland PyLadies, Floaty McFloatFace # Own it, lady!`
 
-Summary: Short version for index and feeds # Again all of these are optional.`
+`Summary: Short version for index and feeds # Again all of these are optional.`
 
 Your super content goes below your metadata block. Remember to commit changes to your fork before moving on!
 

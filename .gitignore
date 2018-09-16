@@ -102,3 +102,38 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+## =====================
+## JetBrains recommends the following:
+## =====================
+
+# User-specific information in JetBrains IDEs
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Sensitive or high-churn files in JetBrains IDEs
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+## =====================
+## Source: https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
+## Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+## =====================
+
+## =====================
+## Others
+## =====================
+
+*.pyc
+*~
+__pycache__
+myvenv
+.DS_Store
+.idea

@@ -1,10 +1,10 @@
 Title: Archive
 Date: 2018-09-16 09:03
 Modified: 2018-09-16 09:04
-Category: misc
-Tags: misc, resources
+Category: Blog
+Tags: blog, misc, resources, archive
 Slug: archived-site
-Authors: Cleveland PyLadies
+Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Archived version of our gh-pages site.
 
 <!--- [About](https://clepyladies.github.io/#about) | [Connect](https://clepyladies.github.io#connect) | [Resources](https://clepyladies.github.io#frequently-recommended-resources) --->

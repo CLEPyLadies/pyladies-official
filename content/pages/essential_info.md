@@ -5,6 +5,12 @@ explicitly focused on engaging women and underrepresented populations in tech,
 specifically in and around Northeast Ohio. We are a local chapter of the global
 Pyladies organization.
 
+PyLadies is an inclusive community centered around
+the Python programming language. Our focus is on promoting diversity,
+growth, and camaraderie in that space.
+Whether you're new to programming or deep into
+your coding career, there's room for you in Cleveland PyLadies.
+
 Our commitment to remote participation:
 
 We understand that work schedules, motherhood, transportation,

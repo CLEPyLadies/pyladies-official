@@ -6,7 +6,7 @@ THEME = 'notmyidea'
 
 AUTHOR = 'Cleveland PyLadies'
 SITENAME = 'Cleveland PyLadies'
-SITEURL = ''
+SITEURL = 'https://clepyladies.github.io/pyladies-official'
 
 PATH = 'content'
 

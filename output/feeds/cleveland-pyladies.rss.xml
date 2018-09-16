@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Cleveland PyLadies - Cleveland PyLadies</title><link>https://clepyladies.github.io/</link><description></description><lastBuildDate>Sun, 16 Sep 2018 09:04:00 -0400</lastBuildDate><item><title>Archive</title><link>https://clepyladies.github.io/archived-site.html</link><description>&lt;!--- [About](https://clepyladies.github.io/#about) | [Connect](https://clepyladies.github.io#connect) | [Resources](https://clepyladies.github.io#frequently-recommended-resources) ---&gt;
+
+&lt;h1&gt;&lt;a href="#about"&gt;What is PyLadies?&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive Python user group explicitly focused on engaging women and underrepresented populations in tech, specifically in and around Northeast Ohio. We are a local chapter of the global Pyladies organization.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a href="#connect"&gt;Connect with us!&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;Socials&lt;/h3&gt;
+&lt;p&gt;We currently have 3 active organizers that can be reached directly (cle at pyladies dot com) for questions. We are on &lt;a href="https://www.twitter.com/CLEPyLadies/"&gt;Twitter&lt;/a&gt;, &lt;a href="https://www.facebook.com/clepyladies/"&gt;Facebook&lt;/a&gt;, &amp;amp; &lt;a href="https://www.instagram.com/CLEPyLadies/"&gt;Instagram&lt;/a&gt; as CLEPyLadies. We also love to promote local bloggers on &lt;a href="https://medium.com/cleveland-pyladies/"&gt;our Medium publication&lt;/a&gt;. Check out our upcoming events on &lt;a href="https://www.meetup.com/CLE-PyLadies/"&gt;Meetup&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;We have channels on two Slack workspaces: &lt;a href="https://slackin.pyladies.com/"&gt;PyLadies global&lt;/a&gt; (as #Cleveland) and the &lt;a href="https://cleveland-tech.slack.com/"&gt;Cleveland Tech&lt;/a&gt; (as #CLE-PyLadies). The local slack also has a #CLEpy channel for the general &lt;a href="https://www.clepy.org/"&gt;Cleveland Python User Group&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Speak at our meetup&lt;/h3&gt;
+&lt;p&gt;We have a &lt;a href="https://www.papercall.io/clepyladies"&gt;papercall.io event page&lt;/a&gt; for submitting talk proposals. You can also reach out to us on Slack or by email if you would like to have a conversation about the topic you have in mind. We aim to stream at least 30 minutes of each meetup on our YouTube channel to facilitate remote participation by the mothers and working women in our community, but can work around any speaker privacy concerns.&lt;/p&gt;
+&lt;h3&gt;Contribute resources&lt;/h3&gt;
+&lt;p&gt;The source files for this page are in &lt;a href="https://github.com/CLEPyLadies/CLEPyLadies.github.io"&gt;a publicly available repo&lt;/a&gt;. Want to suggest a resource? Open an issue or make a pull request on the README.md file and we will review/merge it!&lt;/p&gt;
+&lt;h3&gt;Slide decks from past meetups&lt;/h3&gt;
+&lt;p&gt;2018_09_06: Raise Your Voice - &lt;a href="http://meetu.ps/e/FLvfB/DxhG9/f"&gt;Mini-Workshop on Being Visible in Tech&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://docs.google.com/presentation/d/19BdDbowE1Ec9bbDyD9LfhYsSUllm5qera-eH2APkk28/edit?usp=sharing"&gt;Write your first talk proposal&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://docs.google.com/presentation/d/1KPfsylMuSTvbIzJULoZCJS4rTpbm6M2rauXJAvdwrjk/edit?usp=sharing"&gt;Why/How to Keep a Tech Blog&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a href="#frequently-recommended-resources"&gt;FRR: Frequently recommended resources&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Here is a roundup of resources we commonly recommend:&lt;/p&gt;
+&lt;h3&gt;For those with little to no programming experience - or just general code kata sources for keeping sharp!&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.codecademy.com/learn/learn-python"&gt;Codecademy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://learn.freecodecamp.org/"&gt;Free Code Camp&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;For Data Science&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.kaggle.com"&gt;Kaggle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.datacamp.com/tracks/skill"&gt;DataCamp&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;For Web Development&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://tutorial.djangogirls.org/"&gt;Django Girls Tutorial - Beginner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://docs.djangoproject.com/en/2.1/intro/tutorial01/"&gt;Django Documentation Tutorial - Intermediate&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website"&gt;Mozilla Developer Network Django Tutorial - Advanced&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Videos&lt;/h3&gt;
+&lt;p&gt;The &lt;a href="https://www.youtube.com/channel/UCrX6AAcxXO_-8gitJWdjkuw?view_as=subscriber"&gt;Cleveland PyLadies YouTube channel&lt;/a&gt; has archives of past livestreams, playlists of recommended tutorials, and links to other helpful YouTube resources. Check out the channels we follow for more learning resources, as well!&lt;/p&gt;
+&lt;h3&gt;Podcasts we love&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://talkpython.fm/"&gt;Talk Python to Me&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pythonbytes.fm/"&gt;Python Bytes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.codenewbie.org/basecs"&gt;Base.CS Podcast&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.podcastinit.com/"&gt;Podcast.&lt;code&gt;__init__&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;PyLadies global&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://www.pyladies.com/"&gt;PyLadies global website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.twitter.com/pyladies/"&gt;PyLadies on Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://kit.pyladies.com/"&gt;Organizer info&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;!--- [Top](https://clepyladies.github.io#about) | [Connect](https://clepyladies.github.io#connect) | [Resources](https://clepyladies.github.io#frequently-recommended-resources) ---&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cleveland PyLadies</dc:creator><pubDate>Sun, 16 Sep 2018 09:03:00 -0400</pubDate><guid isPermaLink="false">tag:clepyladies.github.io,2018-09-16:/archived-site.html</guid><category>misc</category><category>resources</category></item></channel></rss>

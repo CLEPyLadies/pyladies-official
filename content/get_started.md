@@ -36,7 +36,7 @@ and may have any/all of the following metadata:
 
 `Summary: Short version for index and feeds # Again all of these are optional.`
 
-Your super content goes below your metadata block. Remember to commit changes with **"Create a new branch for this commit and start a pull request"** before moving on!
+Your super content goes below your metadata block. Make sure to include a screen-reader guide to all markdown elements by including the code `{: aria-label='Your brief description for a screen-reader' }` to ensure our site is as accessible as possible. Remember to commit changes with **"Create a new branch for this commit and start a pull request"** before moving on!
 
 4. Check to see if your fork is behind the main repo by any number of commits. These may cause problems if merge commits emerge between fork and PR.
 

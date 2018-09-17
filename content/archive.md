@@ -7,7 +7,7 @@ Slug: archived-site
 Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Archived version of our gh-pages site.
 
-[About](https://clepyladies.github.io/pyladies-official/archive.html#about){: aria-label='Jump to about' } | [Connect](https://clepyladies.github.io/pyladies-official/archive.html#connect){: aria-label='Jump to socials' } | [Resources](https://clepyladies.github.io/pyladies-official/archive.html#frequently-recommended-resources){: aria-label='Jump to resources' }
+[About](https://clepyladies.github.io/pyladies-official/archived-site.html#about){: aria-label='Jump to about' } | [Connect](https://clepyladies.github.io/pyladies-official/archived-site.html#connect){: aria-label='Jump to socials' } | [Resources](https://clepyladies.github.io/pyladies-official/archived-site.html#frequently-recommended-resources){: aria-label='Jump to resources' }
 
 # [What is PyLadies?](#about){: aria-label='About' }
 
@@ -87,4 +87,4 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 
 ---
 
-<!--- [Top](https://clepyladies.github.io#about) | [Connect](https://clepyladies.github.io#connect) | [Resources](https://clepyladies.github.io#frequently-recommended-resources) --->
+[Top](https://clepyladies.github.io/pyladies-official/archived-site.html#about){: aria-label='Back to top' } | [Connect](https://clepyladies.github.io/pyladies-official/archived-site.html#connect){: aria-label='Jump to socials' } | [Resources](https://clepyladies.github.io/pyladies-official/archived-site.html#frequently-recommended-resources){: aria-label='Jump to resources' }

@@ -17,7 +17,7 @@ Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive 
 
 ## [Connect with us!](#connect){: aria-label='Socials' }
 
-### Socials {: aria-label='Social Media' }
+### Socials
 
 We currently have 3 active organizers that can be reached directly (cle at pyladies dot com) for questions. We are on [Twitter](https://www.twitter.com/CLEPyLadies/){: aria-label='Twitter' }, [Facebook](https://www.facebook.com/clepyladies/){: aria-label='Facebook' }, & [Instagram](https://www.instagram.com/CLEPyLadies/){: aria-label='Instagram' } as CLEPyLadies. We also love to promote local bloggers on [our Medium publication](https://medium.com/cleveland-pyladies/){: aria-label='Medium' }. Check out our upcoming events on [Meetup](https://www.meetup.com/CLE-PyLadies/){: aria-label='Meetup' }!
 

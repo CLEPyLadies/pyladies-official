@@ -23,15 +23,15 @@ We currently have 3 active organizers that can be reached directly (cle at pylad
 
 We have channels on two Slack workspaces: [PyLadies global](https://slackin.pyladies.com/){: aria-label='PyLadies Global Slack' } (as #Cleveland) and the [Cleveland Tech](https://cleveland-tech.slack.com/){: aria-label='Cleveland Tech Slack' } (as #CLE-PyLadies). The local slack also has a #CLEpy channel for the general [Cleveland Python User Group](https://www.clepy.org/){: aria-label='Cleveland Python User Group' }.
 
-### Speak at our meetup {: aria-label='Speak at our meetup' }
+### Speak at our meetup
 
 We have a [papercall.io event page](https://www.papercall.io/clepyladies){: aria-label='Papercall' } for submitting talk proposals. You can also reach out to us on Slack or by email if you would like to have a conversation about the topic you have in mind. We aim to stream at least 30 minutes of each meetup on our YouTube channel to facilitate remote participation by the mothers and working women in our community, but can work around any speaker privacy concerns.
 
-### Contribute resources {: aria-label='Contribute' }
+### Contribute resources
 
 The source files for this page are in [a publicly available repo](https://github.com/CLEPyLadies/CLEPyLadies.github.io){: aria-label='GitHub' }. Want to suggest a resource? Open an issue or make a pull request on the README.md file and we will review/merge it!
 
-### Slide decks from past meetups {: aria-label='Slide decks' }
+### Slide decks from past meetups
 
 2018_09_06: Raise Your Voice - [Mini-Workshop on Being Visible in Tech](http://meetu.ps/e/FLvfB/DxhG9/f){: aria-label='Meetup' }  
    [Write your first talk proposal](https://docs.google.com/presentation/d/19BdDbowE1Ec9bbDyD9LfhYsSUllm5qera-eH2APkk28/edit?usp=sharing){: aria-label='Write your first talk proposal' }  

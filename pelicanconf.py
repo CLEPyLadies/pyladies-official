@@ -29,7 +29,7 @@ CUSTOM_CSS = 'static/custom.css'
 
 # USE_LESS = True
 
-MAIN_MENU = True
+# MAIN_MENU = True
 
 PATH = 'content'
 
@@ -47,9 +47,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Upcoming Events', 'https://www.meetup.com/cle-pyladies'),
-         ('Contribute to our Medium', 'https://medium.com/cleveland-pyladies'),
-         ('PyLadies Global', 'https://www.pyladies.com'),
-         ('New to Open-Source?', 'https://www.firsttimersonly.com/'),)
+         ('CLE Python news', 'https://tinyletter.com/clepy'),
+         ('Blog for us!', 'https://medium.com/cleveland-pyladies'),
+         ('New to Open-Source?', 'https://www.firsttimersonly.com/'),
+         ('PyLadies Global', 'https://www.pyladies.com'),)
 
 # Social widget
 SOCIAL = (('meetup', 'https://www.meetup.com/cle-pyladies'),

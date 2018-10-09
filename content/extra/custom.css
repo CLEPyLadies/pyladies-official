@@ -1,4 +1,7 @@
 aside {
     background-color: #42000d;
   }
-  
+
+h2 a, a.btn {
+  color: #333333
+}

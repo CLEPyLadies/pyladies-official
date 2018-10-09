@@ -34,7 +34,7 @@ MAIN_MENU = True
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
-
+LOCALE = 'en_US'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
@@ -56,7 +56,7 @@ SOCIAL = (('meetup', 'https://www.meetup.com/cle-pyladies'),
           ('facebook', 'https://www.facebook.com/clepyladies'),
           ('instagram', 'https://www.instagram.com/clepyladies'),
           ('slack', 'https://cleveland-tech.slack.com'),
-          ('slack', 'https://slackin.pyladies.com'),
+        #   ('slack', 'https://slackin.pyladies.com'),
           ('github', 'https://www.github.com/clepyladies'),)
 
 DEFAULT_PAGINATION = 10
@@ -64,7 +64,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-LINKS_WIDGET_NAME = 'Contribute to Open-Source'
-SOCIAL_WIDGET_NAME = 'Connect'
+# LINKS_WIDGET_NAME = 'Contribute to Open-Source'
+# SOCIAL_WIDGET_NAME = 'Connect'
 
 DISPLAY_PAGES_ON_MENU = True

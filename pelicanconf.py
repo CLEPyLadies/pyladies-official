@@ -34,7 +34,8 @@ MAIN_MENU = True
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
-OG_LOCALE = 'en_US.UTF-8'
+OG_LOCALE = 'en_US'
+LOCALE = 'en_US.UTF-8'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing

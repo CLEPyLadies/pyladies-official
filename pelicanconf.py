@@ -10,7 +10,7 @@ SITEURL = 'https://clepyladies.github.io/pyladies-official'
 SITESUBTITLE = 'A community for PyLadies, PyNonbinaries, the PyCurious'
 SITELOGO = SITEURL + '/images/pylady_geek_full_dark_green.png'
 
-BROWSER_COLOR = '#810016'
+# BROWSER_COLOR = '#810016'
 
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',

@@ -14,4 +14,5 @@ a.btn {
   fill:#151513 !important;
   color:#fff !important;
   left: 0 !important;
+  transform: scale(-1, 1) !important;
 }

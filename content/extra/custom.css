@@ -9,3 +9,7 @@ h2 a {
 a.btn {
   color: #333333
 }
+
+.github-corner svg {
+  style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; left: 0;"
+}

@@ -20,12 +20,14 @@ CC_LICENSE = {
 
 COPYRIGHT_YEAR = 2018
 
+STATIC_PATHS = ['images', 'extra']
+
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
 }
 CUSTOM_CSS = 'static/custom.css'
 
-USE_LESS = True
+# USE_LESS = True
 
 MAIN_MENU = True
 

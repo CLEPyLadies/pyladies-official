@@ -41,7 +41,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Contribute to our Medium', 'https://medium.com/cleveland-pyladies'),
+LINKS = (('Upcoming Events', 'https://www.meetup.com/cle-pyladies'),
+         ('Contribute to our Medium', 'https://medium.com/cleveland-pyladies'),
          ('PyLadies Global', 'https://www.pyladies.com'),
          ('New to Open-Source?', 'https://www.firsttimersonly.com/'),)
 

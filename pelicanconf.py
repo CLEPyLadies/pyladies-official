@@ -7,7 +7,7 @@ THEME = 'Flex'
 AUTHOR = 'Cleveland PyLadies'
 SITENAME = 'Cleveland PyLadies'
 SITEURL = 'https://clepyladies.github.io/pyladies-official'
-SITESUBTITLE = 'A community for PyLadies, PyNonbinaries, the PyCurious'
+SITESUBTITLE = 'A community for PyLadies, PyNonbinaries, and the PyCurious'
 SITELOGO = SITEURL + '/images/pylady_geek_full_dark_green.png'
 
 # BROWSER_COLOR = '#810016'

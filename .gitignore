@@ -137,3 +137,6 @@ __pycache__
 myvenv
 .DS_Store
 .idea
+
+output
+pelicanconf_local.py

@@ -25,5 +25,5 @@ DELETE_OUTPUT_DIRECTORY = True
 TWITTER_USERNAME = 'clepyladies'
 GITHUB_CORNER_URL = 'https://www.github.com/clepyladies/pyladies-official'
 
-MENUITEMS = [('Home', 'https://clepyladies.github.io/pyladies-official'),
-            ('Upcoming Events', 'https://www.meetup.com/cle-pyladies')]
+# MENUITEMS = [('Home', 'https://clepyladies.github.io/pyladies-official'),
+#             ('Upcoming Events', 'https://www.meetup.com/cle-pyladies')]

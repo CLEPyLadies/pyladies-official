@@ -41,9 +41,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Contribute to our Medium publication', 'https://medium.com/cleveland-pyladies'),
+LINKS = (('Contribute to our Medium', 'https://medium.com/cleveland-pyladies'),
          ('PyLadies Global', 'https://www.pyladies.com'),
-         ('First Time Open-Source Contributors', 'https://www.firsttimersonly.com/'),)
+         ('New to Open-Source?', 'https://www.firsttimersonly.com/'),)
 
 # Social widget
 SOCIAL = (('meetup', 'https://www.meetup.com/cle-pyladies'),
@@ -51,7 +51,8 @@ SOCIAL = (('meetup', 'https://www.meetup.com/cle-pyladies'),
           ('facebook', 'https://www.facebook.com/clepyladies'),
           ('instagram', 'https://www.instagram.com/clepyladies'),
           ('slack', 'https://cleveland-tech.slack.com'),
-          ('slack', 'https://slackin.pyladies.com'),)
+          ('slack', 'https://slackin.pyladies.com'),
+          ('github', 'https://www.github.com/clepyladies'),)
 
 DEFAULT_PAGINATION = 10
 

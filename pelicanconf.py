@@ -47,7 +47,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Upcoming Events', 'https://www.meetup.com/cle-pyladies'),
-         ('CLE Python news', 'https://tinyletter.com/clepy'),
+         ('Cleveland Python news', 'https://tinyletter.com/clepy'),
          ('Blog for us!', 'https://medium.com/cleveland-pyladies'),
          ('New to Open-Source?', 'https://www.firsttimersonly.com/'),
          ('PyLadies Global', 'https://www.pyladies.com'),)

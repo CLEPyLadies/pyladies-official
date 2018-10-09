@@ -10,6 +10,8 @@ a.btn {
   background-color: #333333
 }
 
-.github-corner svg {
-  style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; left: 0;"
+.github-corner svg[style] {
+  fill:#151513 !important;
+  color:#fff !important;
+  left: 0 !important;
 }

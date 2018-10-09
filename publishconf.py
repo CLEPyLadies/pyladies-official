@@ -23,7 +23,7 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 TWITTER_USERNAME = 'clepyladies'
-GITHUB_URL = 'https://www.github.com/clepyladies/pyladies-official'
+GITHUB_CORNER_URL = 'https://www.github.com/clepyladies/pyladies-official'
 
 MENUITEMS = [('Home', 'https://clepyladies.github.io/pyladies-official'),
             ('Upcoming Events', 'https://www.meetup.com/cle-pyladies')]

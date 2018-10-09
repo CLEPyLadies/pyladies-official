@@ -8,7 +8,7 @@ AUTHOR = 'Cleveland PyLadies'
 SITENAME = 'Cleveland PyLadies'
 SITEURL = 'https://clepyladies.github.io/pyladies-official'
 SITESUBTITLE = 'A community for PyLadies, PyNonbinaries, \n and the PyCurious'
-SITELOGO = SITEURL + '/images/pylady_geek_full_dark_green.png'
+SITELOGO = SITEURL + '/images/pylady_geek_girl_standard.png'
 
 # BROWSER_COLOR = '#810016'
 

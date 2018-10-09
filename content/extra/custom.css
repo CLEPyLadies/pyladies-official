@@ -2,6 +2,10 @@ aside {
     background-color: #42000d;
   }
 
-h2 a, a.btn {
+h2 a {
+  color: #333333
+}
+
+a.btn {
   color: #333333
 }

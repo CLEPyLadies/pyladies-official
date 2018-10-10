@@ -13,7 +13,7 @@ growth, and camaraderie in that space.
 Whether you're new to programming or deep into
 your coding career, there's room for you in Cleveland PyLadies.
 
-![https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png]
+![Mission Statement](https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png)
 
 Our commitment to remote participation:
 
@@ -36,7 +36,7 @@ outreach, education, conferences, and social gatherings.
 PyLadies also aims to provide a friendly support network for women and
 a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
 
-![https://clepyladies.github.io/pyladies-official/images/cocBanner.png]
+![Code of Conduct](https://clepyladies.github.io/pyladies-official/images/cocBanner.png)
 
 [PyLadies Global Code of Conduct](http://www.pyladies.com/CodeOfConduct/){: aria-label='PyLadies Code of Conduct' }
 

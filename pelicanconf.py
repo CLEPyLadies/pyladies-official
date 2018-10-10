@@ -27,6 +27,9 @@ EXTRA_PATH_METADATA = {
 }
 CUSTOM_CSS = 'static/custom.css'
 
+PLUGIN_PATH = 'pelican-plugins'
+PLUGINS = ['representative_image']
+
 # USE_LESS = True
 
 # MAIN_MENU = True

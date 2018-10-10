@@ -1,5 +1,7 @@
 Title: About
 
+![alt text](https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png 'Mission Statement')
+
 Our mission statement:
 
 Cleveland PyLadies is an open and inclusive Python user group
@@ -12,8 +14,6 @@ the Python programming language. Our focus is on promoting diversity,
 growth, and camaraderie in that space.
 Whether you're new to programming or deep into
 your coding career, there's room for you in Cleveland PyLadies.
-
-![alt text](https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png 'Mission Statement')
 
 Our commitment to remote participation:
 

@@ -6,5 +6,6 @@ Tags: First, Blog, Write
 Slug: hello-world
 Authors: Marissa Utterberg
 Summary: First post from Cleveland PyLadies on our fancy Pelican site!
+Image: /images/MissionValuesBanner.png
 
 ![alt text](https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png "Mission Statement")

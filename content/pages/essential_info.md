@@ -34,6 +34,8 @@ outreach, education, conferences, and social gatherings.
 PyLadies also aims to provide a friendly support network for women and
 a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
 
+![https://clepyladies.github.io/pyladies-official/images/cocBanner.png]
+
 [PyLadies Global Code of Conduct](http://www.pyladies.com/CodeOfConduct/){: aria-label='PyLadies Code of Conduct' }
 
 Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.

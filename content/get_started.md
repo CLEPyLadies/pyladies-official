@@ -2,7 +2,7 @@ Title: Contribute Content
 Date: 2018-09-16 13:49
 Modified: 2018-09-16 13:50
 Category: Blog
-Tags: Open-Source, Contribute, Pull Requests, Newbies, First PR, Write
+Tags: Open-Source, Contribute, Pull Requests, Newbies, First PR, Write, Code
 Slug: get-started
 Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Some helpful info for first-time contributors.

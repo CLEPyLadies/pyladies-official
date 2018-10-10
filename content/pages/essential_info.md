@@ -13,6 +13,8 @@ growth, and camaraderie in that space.
 Whether you're new to programming or deep into
 your coding career, there's room for you in Cleveland PyLadies.
 
+![https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png]
+
 Our commitment to remote participation:
 
 We understand that work schedules, motherhood, transportation,

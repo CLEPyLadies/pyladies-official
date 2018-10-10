@@ -1,6 +1,6 @@
 Title: About
 
-![alt text](https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png 'Mission Statement')
+![alt text](https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png "Mission Statement"){: aria-label='PyLadies Mission Statement' }
 
 Our mission statement:
 
@@ -36,7 +36,7 @@ outreach, education, conferences, and social gatherings.
 PyLadies also aims to provide a friendly support network for women and
 a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
 
-![alt text](https://clepyladies.github.io/pyladies-official/images/cocBanner.png 'Mission Statement')
+![alt text](https://clepyladies.github.io/pyladies-official/images/cocBanner.png "Code of Conduct"){: aria-label='PyLadies Code of Conduct' }
 
 [PyLadies Global Code of Conduct](http://www.pyladies.com/CodeOfConduct/){: aria-label='PyLadies Code of Conduct' }
 

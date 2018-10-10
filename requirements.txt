@@ -12,4 +12,4 @@ python-dateutil==2.7.3
 pytz==2018.5
 six==1.11.0
 Unidecode==1.0.22
-beautifulsoup4==4.4.6.3
+beautifulsoup4==4.6.3

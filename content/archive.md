@@ -6,6 +6,7 @@ Tags: Blog, Resources, Archive, Write, Speak, Code
 Slug: archived-site
 Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Archived version of our gh-pages site.
+Image: images/ResourcesBanner.png
 
 [About](https://clepyladies.github.io/pyladies-official/archived-site.html#about){: aria-label='Jump to about' } | [Connect](https://clepyladies.github.io/pyladies-official/archived-site.html#connect){: aria-label='Jump to socials' } | [Resources](https://clepyladies.github.io/pyladies-official/archived-site.html#frequently-recommended-resources){: aria-label='Jump to resources' }
 

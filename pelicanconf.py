@@ -6,6 +6,7 @@ THEME = 'Flex'
 
 AUTHOR = 'Cleveland PyLadies'
 SITENAME = 'Cleveland PyLadies'
+SITETITLE = 'Cleveland PyLadies'
 SITEURL = 'https://clepyladies.github.io/pyladies-official'
 SITESUBTITLE = 'A community for PyLadies, PyNonbinaries, \n and the PyCurious'
 SITELOGO = SITEURL + '/images/pylady_geek_girl_standard.png'

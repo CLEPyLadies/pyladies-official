@@ -19,7 +19,9 @@ Here are a few steps to help you get started:
 
 2. Fork this repo!
 
-3. Add a .md file with your post in the 'content' folder **on branch master**. Your file needs to have a line with the title
+3. Clone your fork to a directory on your machine so that you can develop in your text editor of choice.
+
+4. Add a .md file with your post in the 'content' folder **on branch master**. Your file needs to have a line with the title
 `Title: {{ your awesome title here }}`
 and may have any/all of the following metadata:
 
@@ -37,12 +39,11 @@ and may have any/all of the following metadata:
 
 `Summary: Short version for index and feeds # Again all of these are optional.`
 
-Your super content goes below your metadata block. Make sure to include a screen-reader guide to all markdown elements by including the code `{: aria-label='Your brief description for a screen-reader' }` to ensure our site is as accessible as possible. Remember to commit changes with **"Create a new branch for this commit and start a pull request"** before moving on!
+Your super content goes below your metadata block. Remember to commit changes with meaningful messages before moving on!
 
-4. Check to see if your fork is behind the main repo by any number of commits. These may cause problems if merge commits emerge between fork and PR.
+5. Check to see if your fork is behind the main repo by any number of commits. These may cause problems if merge commits emerge between fork and PR.
 
-5. Make a new pull request on the main repo by selecting `compare across forks` and setting your fork master as the head.
-(Remember to click the green button when the merge is available!)
+6. Make a new pull request **from [the main repo](https://github.com/CLEPyLadies/pyladies-official)** by selecting `compare across forks`, setting your fork master as the head, giving your PR a meaningful title, and submitting your request.
 
-6. BOOM! You're officially an open-source contributor.
-Shoot us an email or get at us on social if more than a week goes by and we haven't addressed your PR!
+7. BOOM! You're officially an open-source contributor. We may ask for changes before merging your fork, but you've successfully gotten started!
+Shoot us an email or get at us on social if more than a week goes by and we haven't addressed your PR. We are very encouraging of new contributors, so give it a shot!

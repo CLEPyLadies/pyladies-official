@@ -10,6 +10,7 @@ SITETITLE = 'Cleveland PyLadies'
 SITEURL = 'https://clepyladies.github.io/pyladies-official'
 SITESUBTITLE = 'A community for PyLadies, PyNonbinaries, \n and the PyCurious'
 SITELOGO = SITEURL + '/images/pylady_geek_girl_standard.png'
+SITEDESCRIPTION = 'Cleveland, Ohio chapter of PyLadies - a Python professional organization' # For <meta> tag in header
 
 # BROWSER_COLOR = '#810016'
 

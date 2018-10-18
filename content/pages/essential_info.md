@@ -24,10 +24,10 @@ Because of this, we aim to stream ~30 minute chunks of our meetups
 to facilitate participation of PyLadies that are not able to make
 a meeting in person.
 
-Link to [our saved Python playlists:](https://www.youtube.com/channel/UCrX6AAcxXO_-8gitJWdjkuw/playlists){: aria-label='Cleveland PyLadies on YouTube' }
+Link to [our saved Python playlists:](https://www.youtube.com/channel/UCrX6AAcxXO_-8gitJWdjkuw/playlists)
 Many of our members are new to Python, so we curate playlists of educational videos and tutorials.
 
-[PyLadies Global](http://www.pyladies.com){: aria-label='PyLadies Global' } mission statement:
+[PyLadies Global](http://www.pyladies.com) mission statement:
 
 PyLadies is an international mentorship group with a focus on helping
 more women become active participants and leaders in the Python open-source community.

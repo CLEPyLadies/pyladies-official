@@ -48,7 +48,7 @@ Here is a roundup of resources we commonly recommend:
 
 [Codecademy](https://www.codecademy.com/learn/learn-python)
 
-[Free Code Camp](https://learn.freecodecamp.org/)
+[Free Code Camp](https://guide.freecodecamp.org/python/python-resources/)
 
 ### For Data Science
 

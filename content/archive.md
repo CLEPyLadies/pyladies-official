@@ -10,13 +10,13 @@ Image: images/cocBanner.png
 
 [About](https://clepyladies.github.io/pyladies-official/archived-site.html#about){: aria-label='Jump to about' } | [Connect](https://clepyladies.github.io/pyladies-official/archived-site.html#connect){: aria-label='Jump to socials' } | [Resources](https://clepyladies.github.io/pyladies-official/archived-site.html#frequently-recommended-resources){: aria-label='Jump to resources' }
 
-# [What is PyLadies?](#about)
+# What is PyLadies?(#about)
 
 Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive Python user group explicitly focused on engaging women and underrepresented populations in tech, specifically in and around Northeast Ohio. We are a local chapter of the global Pyladies organization.
 
 ---
 
-## [Connect with us!](#connect)
+## Connect with us!(#connect)
 
 ### Socials
 
@@ -40,7 +40,7 @@ The source files for this page are in [a publicly available repo](https://github
 
 ---
 
-## [FRR: Frequently recommended resources](#frequently-recommended-resources)
+## FRR: Frequently recommended resources(#frequently-recommended-resources)
 
 Here is a roundup of resources we commonly recommend:
 

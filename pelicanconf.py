@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-THEME = 'Flex'
+THEME = 'pelican-themes/Flex'
 
 AUTHOR = 'Cleveland PyLadies'
 SITENAME = 'Cleveland PyLadies'

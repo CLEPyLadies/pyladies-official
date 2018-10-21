@@ -1,4 +1,4 @@
-Title: About
+Title: About Us
 
 ![alt text](https://clepyladies.github.io/pyladies-official/images/MissionValuesBanner.png "Mission Statement"){: aria-label='PyLadies Mission Statement' }
 

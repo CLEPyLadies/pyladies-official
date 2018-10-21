@@ -52,7 +52,7 @@ You can preview changes you've saved locally with the following steps:
 
 When you are satisfied with the look of your article or other change:
 
-5. Check to see if your fork is behind the main repo by any number of commits. These may cause problems if merge commits emerge between fork and PR.
+5. Check to see if your fork is behind the main repo by any number of commits. These may cause problems if merge commits emerge between fork and PR. Contact us on Slack or Twitter if you are unsure.
 
 6. Make a new pull request **from [the main repo](https://github.com/CLEPyLadies/pyladies-official)** by selecting `compare across forks`, setting your fork master as the head, giving your PR a meaningful title, and submitting your request.
 

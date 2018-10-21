@@ -15,7 +15,7 @@
 {% for article in articles_page.object_list %}
 <article>
   <header>
-    {% if article.pin %}<span class="glyphicon glyphicon-pushpin"></span>{% endif %}
+    <span>{% if article.pin %}<i class="fas fa-thumbtack"></i>{% endif %}</span>
     <h2><a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">{{ article.title }}</a></h2>
     <p>
       {{ _('Posted on %(when)s in %(category)s',

@@ -54,7 +54,7 @@ When you are satisfied with the look of your article or other change:
 
 5. Check to see if your fork is behind the main repo by any number of commits. These may cause problems if merge commits emerge between fork and PR. Contact us on Slack or Twitter if you are unsure.
 
-6. Make a new pull request **from [the main repo](https://github.com/CLEPyLadies/pyladies-official)** by selecting `compare across forks`, setting your fork master as the head, giving your PR a meaningful title, and submitting your request.
+6. Make a new pull request **from [the main repo](https://github.com/CLEPyLadies/pyladies-official)**. There is a green "New pull request" button to start this process. On the next page, select `compare across forks`, set your fork master as the head, give your PR a meaningful title/description, and submit your request (green "Create pull request" button).
 
 7. BOOM! You're officially an open-source contributor. We may ask for changes before merging your fork, but you've successfully gotten started!
 Shoot us an email or get at us on social if more than a week goes by and we haven't addressed your PR. We are very encouraging of new contributors, so give it a shot!

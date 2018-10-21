@@ -42,13 +42,13 @@ and may have any/all of the following metadata:
 Your super content goes below your metadata block. Remember to commit changes with meaningful messages before moving on!
 
 You can preview changes you've saved locally with the following steps:
- - open a terminal and run `cd pyladies-official` (the location of your cloned fork)
- - *run `python -m venv myvenv` if you haven't already done so in that directory*
- - run `source myvenv/bin/activate` to activate the virtual environment you created for this project
- - *run `pip install --upgrade pip` and then `pip install -r requirements.txt` if this is the first time you've activated this virtual environment*
- - run `pelican content` to generate the site html files locally
- - run `./develop_server.sh start` to make your version of the site available locally
- - preview your version of the site by opening `http://localhost:8000` in your internet browser of choice.
+    - open a terminal and run `cd pyladies-official` (the location of your cloned fork)
+    - *run `python -m venv myvenv` if you haven't already done so in that directory*
+    - run `source myvenv/bin/activate` to activate the virtual environment you created for this project
+    - *run `pip install --upgrade pip` and then `pip install -r requirements.txt` if this is the first time you've activated this virtual environment*
+    - run `pelican content` to generate the site html files locally
+    - run `./develop_server.sh start` to make your version of the site available locally
+    - preview your version of the site by opening `http://localhost:8000` in your internet browser of choice.
 
 When you are satisfied with the look of your article or other change:
 

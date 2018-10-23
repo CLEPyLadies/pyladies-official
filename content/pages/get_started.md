@@ -41,6 +41,18 @@ and may have any/all of the following metadata:
 
 Your super content goes below your metadata block. Remember to commit changes with meaningful messages before moving on!
 
+Current category options:
+
+* Blog
+
+* PyLady Profiles
+
+* Anything other than these needs to be discussed before approval
+
+
+
+
+
 You can preview changes you've saved locally with the following steps:
 
 * open a terminal and run `cd pyladies-official` (the location of your cloned fork)

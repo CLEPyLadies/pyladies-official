@@ -53,11 +53,15 @@ Here is a roundup of resources we commonly recommend:
 
 [Python Anywhere](https://www.pythonanywhere.com/details/education)
 
+[Hour of Python](https://hourofpython.com/)
+
 [Learn Python](https://www.learnpython.org/)
 
 [Codecademy](https://www.codecademy.com/learn/learn-python)
 
 [Free Code Camp](https://guide.freecodecamp.org/python/python-resources/)
+
+[Codesters](https://www.codesters.com/)
 
 ### For Data Science
 

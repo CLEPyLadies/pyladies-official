@@ -39,7 +39,7 @@ The source files for this page are in [a publicly available repo](https://github
 
 ---
 
-## FRR: Frequently recommended resources
+## [FRR: Frequently recommended resources](#frequently-recommended-resources){: name='#frequently-recommended-resources' }
 
 Here is a roundup of resources we commonly recommend:
 

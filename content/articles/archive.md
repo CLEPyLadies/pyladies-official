@@ -7,7 +7,7 @@ Slug: archived-site
 Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Archived content from our original site. Read this post first if you're new here!
 Pin: true
-Image: images/ResourcesBanner.png
+Image: images/HomeBanner.png
 
 # What is PyLadies?
 

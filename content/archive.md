@@ -47,6 +47,14 @@ Here is a roundup of resources we commonly recommend:
 
 ### For those with little to no programming experience - or just general code kata sources for keeping sharp!
 
+[Python for Everybody](https://www.py4e.com/lessons) <--- HIGHLY recommended
+
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+[Learn Python the Hard Way](https://learnpythonthehardway.org/)
+
+[Learn Python](https://www.learnpython.org/)
+
 [Codecademy](https://www.codecademy.com/learn/learn-python)
 
 [Free Code Camp](https://guide.freecodecamp.org/python/python-resources/)

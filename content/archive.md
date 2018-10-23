@@ -65,6 +65,8 @@ Here is a roundup of resources we commonly recommend:
 
 [The Python Software Foundation Tutorial](https://docs.python.org/3/tutorial/)
 
+[First-Timers Only](https://www.firsttimersonly.com/)(.com)
+
 ### For Data Science
 
 [Kaggle](https://www.kaggle.com)

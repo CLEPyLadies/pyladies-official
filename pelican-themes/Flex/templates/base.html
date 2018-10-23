@@ -90,9 +90,6 @@
     {% include "partial/gtm_noscript.html" %}
   {% endif %}
   <aside>
-    {% if GITHUB_CORNER_URL %}
-    {% include 'partial/github.html' %}
-    {% endif %}
     <div>
       <a href="{{ SITEURL }}">
         {% if SITELOGO %}
@@ -140,6 +137,9 @@
     {% endif %}
 
   </aside>
+  {% if GITHUB_CORNER_URL %}
+  {% include 'partial/github.html' %}
+  {% endif %}
   <main>
     {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.main_menu %}
       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

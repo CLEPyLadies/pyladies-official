@@ -6,7 +6,7 @@ Tags: Open-Source, Contribute, Pull Requests, Newbies, First PR, Write, Code
 Slug: get-started
 Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Some helpful info for first-time contributors.
-Image: images/ResourcesBanner.png
+Image: images/MissionValuesBanner.png
 
 
 # So you want to make a PR

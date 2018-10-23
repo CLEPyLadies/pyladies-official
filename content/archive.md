@@ -38,8 +38,9 @@ The source files for this page are in [a publicly available repo](https://github
    [Why/How to Keep a Tech Blog](https://docs.google.com/presentation/d/1KPfsylMuSTvbIzJULoZCJS4rTpbm6M2rauXJAvdwrjk/edit?usp=sharing)
 
 ---
+[FRR](#frequently-recommended-resources){: name='#frequently-recommended-resources' }
 
-## [FRR: Frequently recommended resources](#frequently-recommended-resources){: name='#frequently-recommended-resources' }
+## FRR: Frequently recommended resources
 
 Here is a roundup of resources we commonly recommend:
 

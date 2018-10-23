@@ -9,13 +9,13 @@ Summary: Archived content from our original site. Read this post first if you're
 Pin: true
 Image: images/MissionValuesBanner.png
 
-# [What is PyLadies?](#about)
+# What is PyLadies?
 
 Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive Python user group explicitly focused on engaging women and underrepresented populations in tech, specifically in and around Northeast Ohio. We are a local chapter of the global Pyladies organization.
 
 ---
 
-## [Connect with us!](#connect)
+## Connect with us!
 
 ### Socials
 
@@ -39,7 +39,7 @@ The source files for this page are in [a publicly available repo](https://github
 
 ---
 
-## [FRR: Frequently recommended resources](#frequently-recommended-resources)
+## FRR: Frequently recommended resources
 
 Here is a roundup of resources we commonly recommend:
 
@@ -63,6 +63,8 @@ Here is a roundup of resources we commonly recommend:
 
 [Codesters](https://www.codesters.com/)
 
+[The Python Software Foundation Tutorial](https://docs.python.org/3/tutorial/)
+
 ### For Data Science
 
 [Kaggle](https://www.kaggle.com)
@@ -76,6 +78,8 @@ Here is a roundup of resources we commonly recommend:
 [Django Documentation Tutorial - Intermediate](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 
 [Mozilla Developer Network Django Tutorial - Advanced](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
+
+[Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/book/part1.harry.html)
 
 ### Videos
 
@@ -100,5 +104,3 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 [Organizer info](https://kit.pyladies.com/)
 
 ---
-
-[Top](https://clepyladies.github.io/pyladies-official/archived-site.html#about){: aria-label='Back to top' } | [Connect](https://clepyladies.github.io/pyladies-official/archived-site.html#connect){: aria-label='Jump to socials' } | [Resources](https://clepyladies.github.io/pyladies-official/archived-site.html#frequently-recommended-resources){: aria-label='Jump to resources' }

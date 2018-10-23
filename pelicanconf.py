@@ -63,7 +63,7 @@ SOCIAL = (('meetup', 'https://www.meetup.com/cle-pyladies'),
           ('facebook', 'https://www.facebook.com/clepyladies'),
           ('instagram', 'https://www.instagram.com/clepyladies'),
           ('slack', 'https://cleveland-tech.slack.com'),
-        #   ('slack', 'https://slackin.pyladies.com'),
+          ('slack', 'https://slackin.pyladies.com'),
           ('github', 'https://www.github.com/clepyladies'),)
 
 DEFAULT_PAGINATION = 10

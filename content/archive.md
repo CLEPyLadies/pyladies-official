@@ -9,8 +9,6 @@ Summary: Archived content from our original site. Read this post first if you're
 Pin: true
 Image: images/MissionValuesBanner.png
 
-[About](#about){: aria-label='Jump to about' } | [Connect](#connect){: aria-label='Jump to socials' } | [Resources](#frequently-recommended-resources){: aria-label='Jump to resources' }
-
 # [What is PyLadies?](#about)
 
 Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive Python user group explicitly focused on engaging women and underrepresented populations in tech, specifically in and around Northeast Ohio. We are a local chapter of the global Pyladies organization.
@@ -52,6 +50,8 @@ Here is a roundup of resources we commonly recommend:
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+
+[Python Anywhere](https://www.pythonanywhere.com/details/education)
 
 [Learn Python](https://www.learnpython.org/)
 

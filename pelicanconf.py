@@ -54,7 +54,6 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Upcoming Events', 'https://www.meetup.com/cle-pyladies'),
          ('Cleveland Python news', 'https://tinyletter.com/clepy'),
          ('Blog for us!', 'https://medium.com/cleveland-pyladies'),
-         ('resources', SITEURL + '/archived-site.html#frequently-recommended-resources'),
          ('PyLadies Global', 'https://www.pyladies.com'),)
 
 # Social widget

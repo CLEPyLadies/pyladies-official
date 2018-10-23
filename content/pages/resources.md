@@ -4,7 +4,7 @@ Title: Resources
 
 ### Contribute resources
 
-The source files for this page are in [a publicly available repo](https://github.com/CLEPyLadies/pyladies-official). Want to suggest a resource? Open an issue or make a pull request on the README.md file and we will review/merge it!
+The source files for this site are in [a publicly available repo](https://github.com/CLEPyLadies/pyladies-official). Want to suggest a resource? Open an issue or make a pull request on the README.md file and we will review/merge it!
 
 ---
 <div id='frequently-recommended-resources'>

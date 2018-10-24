@@ -1,17 +1,18 @@
 Title: {{ How You Can Use Python }}
 Content Date: 2018-10-23 22:27
+Category: blog
 
 Tags: python, learning, programming, projects, ideas
 
 Authors: Cleveland PyLadies, Daniel Medina
 
-Summary:  A brief summary of how you can use and apply Python to solve real-world problems.
+Summary:  A brief overview of who uses Python and some packages they use to solve real-world problems.
 
-Python is an extremely versatile programming language known for its beginner friendly syntax.  It is used by NASA, Google, Dropbox, Quora, and many others.
+Python is an extremely versatile programming language known for its beginner-friendly syntax.  It is used by NASA, Google, GenomOncology, OnShift, SkipList, Dropbox, Quora, and many others.
 
-Python is primarily used for scripting, the automation of short repetitive tasks.
+Python is great for scripting, the automation of short repetitive tasks.
 
-Here are some of the ways that Python is used across multiple areas:
+Here are some examples of libraries people use to solve real-world problems in multiple domains with Python:
 
   Science with [SciPy](https://www.datacamp.com/community/tutorials/python-scipy-tutorial), [NumPy](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/)
 

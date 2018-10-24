@@ -1,4 +1,4 @@
-Title: {{ What Do You Use Python For? }}
+Title: What Do You Use Python For?
 Date: 2018-10-23 22:27
 Category: blog
 Tags: python, learning, programming, projects, ideas

@@ -9,7 +9,7 @@ MarkupSafe==1.0
 pelican==3.7.1
 Pygments==2.2.0
 python-dateutil==2.7.3
-pytz==2018.5
+pytz==2018.6
 six==1.11.0
 Unidecode==1.0.22
 beautifulsoup4==4.6.3

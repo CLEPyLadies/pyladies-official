@@ -21,7 +21,7 @@ Here are a few steps to help you get started:
 
 3. Clone your fork to a directory on your machine so that you can develop in your text editor of choice.
 
-4. Add a .md file with your post in the 'content' folder **on branch master**. Your file needs to have a line with the title
+4. Add a .md file with your post in the 'content' folder **on branch master**. Blog posts and articles both show up on the main stream, files in the `pages` directory are for the sidebar pages only. Your file needs to have a line with the title
 `Title: {{ your awesome title here }}`
 and may have any/all of the following metadata:
 

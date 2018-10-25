@@ -140,3 +140,4 @@ myvenv
 
 output
 pelicanconf_local.py
+*.pid

@@ -39,17 +39,15 @@ Here is a roundup of resources we commonly recommend:
 
 [After Hours Programming](https://www.afterhoursprogramming.com/tutorial/python/python-overview/) - This tutorial covers language fundamentals and some web development concepts.
 
-[The Hitchhiker's Guide to Python](https://docs.python-guide.org/)  - This is a comprehensive guide covering best practices and uses of Python.
-
 [Invent Your Own Computer Games with Python 4th Edition](https://inventwithpython.com/invent4thed/) - This book teaches readers how to program in Python by making simple, classic games like Hangman and Tic Tac Toe.
 
-[Google's Python Class](https://developers.google.com/edu/python/?hl=en) -  This class has a slight barrier to entry but covers great topics like Lists, Dictionaries, and Regular Expressions
+### General Resources
+
+[Google's Python Class](https://developers.google.com/edu/python/) -  This class has a slight barrier to entry but covers great topics like Lists, Dictionaries, and Regular Expressions
 
 [RealPython](https://realpython.com/) - This site has tons of tutorials, some free and some paid.  It covers a wide range of topics including language fundamentals, machine learning, testing, frameworks, and many more.
 
-[StudyTonight](https://www.studytonight.com/python/) -  This website categorizes tutorials by difficulty so that you can either start with the basics or with a particular topic.
-
-[Full Stack Python](https://www.fullstackpython.com/) - An in-depth tutorial on building Python web applications and deploying them online.
+[The Hitchhiker's Guide to Python](https://docs.python-guide.org/)  - This is a comprehensive guide covering best practices and uses of Python.
 
 ### For Data Science
 
@@ -67,6 +65,10 @@ Here is a roundup of resources we commonly recommend:
 
 [Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/book/part1.harry.html)
 
+[StudyTonight](https://www.studytonight.com/python/) -  This website categorizes tutorials by difficulty so that you can either start with the basics or with a particular topic.
+
+[Full Stack Python](https://www.fullstackpython.com/) - An in-depth tutorial on building Python web applications and deploying them online.
+
 ### Videos
 
 The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AAcxXO_-8gitJWdjkuw?view_as=subscriber) has archives of past livestreams, playlists of recommended tutorials, and links to other helpful YouTube resources. Check out the channels we follow for more learning resources, as well!
@@ -82,10 +84,10 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 [Podcast.`__init__`](https://www.podcastinit.com/)
 </div>
 
-### Slide decks from past meetups
+### Miscellaneous Resources
 
 2018_09_06: Raise Your Voice - [Mini-Workshop on Being Visible in Tech](http://meetu.ps/e/FLvfB/DxhG9/f)  
    [Write your first talk proposal](https://docs.google.com/presentation/d/19BdDbowE1Ec9bbDyD9LfhYsSUllm5qera-eH2APkk28/edit?usp=sharing)  
    [Why/How to Keep a Tech Blog](https://docs.google.com/presentation/d/1KPfsylMuSTvbIzJULoZCJS4rTpbm6M2rauXJAvdwrjk/edit?usp=sharing)
 
-[Medium](https://medium.com/) offers a simple platform for publishing blog posts.  Check out their [best practices for writing](https://blog.medium.com/best-practices-for-writing-on-medium-386506ae62b9) along with their [help articles on formatting and publishing](https://help.medium.com/hc/en-us/categories/200058025-Writing).
+[Medium](https://medium.com/) offers a simple platform for publishing blog posts.  See their [best practices for writing](https://blog.medium.com/best-practices-for-writing-on-medium-386506ae62b9) along with their [help articles on formatting and publishing](https://help.medium.com/hc/en-us/categories/200058025-Writing).  Be sure to check out the [CLEPyLadies Medium page](https://medium.com/cleveland-pyladies) while you're there!

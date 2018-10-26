@@ -27,15 +27,29 @@ Here is a roundup of resources we commonly recommend:
 
 [Learn Python](https://www.learnpython.org/)
 
-[Codecademy](https://www.codecademy.com/learn/learn-python)
+[Codecademy](https://www.codecademy.com/learn/learn-python)  -  Codecademy offers a free beginner-friendly course in the basics of Python.
 
-[Free Code Camp](https://guide.freecodecamp.org/python/python-resources/)
+[Free Code Camp](https://guide.freecodecamp.org/python/python-resources/) provides an extensive list of Python tutorials.
 
 [Codesters](https://www.codesters.com/)
 
-[The Python Software Foundation Tutorial](https://docs.python.org/3/tutorial/)
+[The Python Software Foundation Tutorial](https://docs.python.org/3/tutorial/) - Python's official tutorial
 
-[First-Timers Only](https://www.firsttimersonly.com/)(.com)
+[First-Timers Only](https://www.firsttimersonly.com/)(.com) - This website is devoted to getting beginners involved in the Open Source community.
+
+[After Hours Programming](https://www.afterhoursprogramming.com/tutorial/python/python-overview/) - This tutorial covers language fundamentals and some web development concepts.
+
+[The Hitchhiker's Guide to Python](https://docs.python-guide.org/)  - This is a comprehensive guide covering best practices and uses of Python.
+
+[Invent Your Own Computer Games with Python 4th Edition](https://inventwithpython.com/invent4thed/) - This book teaches readers how to program in Python by making simple, classic games like Hangman and Tic Tac Toe.
+
+[Google's Python Class](https://developers.google.com/edu/python/?hl=en) -  This class has a slight barrier to entry but covers great topics like Lists, Dictionaries, and Regular Expressions
+
+[RealPython](https://realpython.com/) - This site has tons of tutorials, some free and some paid.  It covers a wide range of topics including language fundamentals, machine learning, testing, frameworks, and many more.
+
+[StudyTonight](https://www.studytonight.com/python/) -  This website categorizes tutorials by difficulty so that you can either start with the basics or with a particular topic.
+
+[Full Stack Python](https://www.fullstackpython.com/) - An in-depth tutorial on building Python web applications and deploying them online.
 
 ### For Data Science
 
@@ -73,3 +87,5 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 2018_09_06: Raise Your Voice - [Mini-Workshop on Being Visible in Tech](http://meetu.ps/e/FLvfB/DxhG9/f)  
    [Write your first talk proposal](https://docs.google.com/presentation/d/19BdDbowE1Ec9bbDyD9LfhYsSUllm5qera-eH2APkk28/edit?usp=sharing)  
    [Why/How to Keep a Tech Blog](https://docs.google.com/presentation/d/1KPfsylMuSTvbIzJULoZCJS4rTpbm6M2rauXJAvdwrjk/edit?usp=sharing)
+
+[Medium](https://medium.com/) offers a simple platform for publishing blog posts.  Check out their [best practices for writing](https://blog.medium.com/best-practices-for-writing-on-medium-386506ae62b9) along with their [help articles on formatting and publishing](https://help.medium.com/hc/en-us/categories/200058025-Writing).

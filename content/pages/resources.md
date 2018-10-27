@@ -73,6 +73,14 @@ Here is a roundup of resources we commonly recommend:
 
 The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AAcxXO_-8gitJWdjkuw?view_as=subscriber) has archives of past livestreams, playlists of recommended tutorials, and links to other helpful YouTube resources. Check out the channels we follow for more learning resources, as well!
 
+[Automate the Boring Stuff with Python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
+[Python Tutorials, by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+[Python, by Coding Tech](https://www.youtube.com/playlist?list=PLFjq8z-aGyQ4Y3mSWGBptr7SArEsfdWQA)
+[Python Tutorials for Absolute Beginners, by CS Dojo](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+[Learn Python for Data Science, by DataCamp](https://www.youtube.com/playlist?list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
+[Python Web Programming Tutorial, by StoneRiverElearning](https://www.youtube.com/playlist?list=PL5eJgcQ87sgfUrc6an-0Swam0kQXVYnuw)
+[Codecademy Python Walkthrough, by Clever Programmer](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOM14s1fbxVVjRA3zZR14cR)
+
 ### Podcasts we love
 
 [Talk Python to Me](https://talkpython.fm/)

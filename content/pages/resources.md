@@ -49,6 +49,8 @@ Here is a roundup of resources we commonly recommend:
 
 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)  - This is a comprehensive guide covering best practices and uses of Python.
 
+[StudyTonight](https://www.studytonight.com/python/) -  This website categorizes tutorials by difficulty so that you can either start with the basics or with a particular topic.
+
 ### For Data Science
 
 [Kaggle](https://www.kaggle.com)
@@ -64,8 +66,6 @@ Here is a roundup of resources we commonly recommend:
 [Mozilla Developer Network Django Tutorial - Advanced](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
 
 [Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/book/part1.harry.html)
-
-[StudyTonight](https://www.studytonight.com/python/) -  This website categorizes tutorials by difficulty so that you can either start with the basics or with a particular topic.
 
 [Full Stack Python](https://www.fullstackpython.com/) - An in-depth tutorial on building Python web applications and deploying them online.
 
@@ -92,10 +92,12 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 [Podcast.`__init__`](https://www.podcastinit.com/)
 </div>
 
-### Miscellaneous Resources
+### Slide Decks from PyLadies Meetups
 
 2018_09_06: Raise Your Voice - [Mini-Workshop on Being Visible in Tech](http://meetu.ps/e/FLvfB/DxhG9/f)  
    [Write your first talk proposal](https://docs.google.com/presentation/d/19BdDbowE1Ec9bbDyD9LfhYsSUllm5qera-eH2APkk28/edit?usp=sharing)  
    [Why/How to Keep a Tech Blog](https://docs.google.com/presentation/d/1KPfsylMuSTvbIzJULoZCJS4rTpbm6M2rauXJAvdwrjk/edit?usp=sharing)
+
+### Miscellaneous Resources
 
 [Medium](https://medium.com/) offers a simple platform for publishing blog posts.  See their [best practices for writing](https://blog.medium.com/best-practices-for-writing-on-medium-386506ae62b9) along with their [help articles on formatting and publishing](https://help.medium.com/hc/en-us/categories/200058025-Writing).  Be sure to check out the [CLEPyLadies Medium page](https://medium.com/cleveland-pyladies) while you're there!

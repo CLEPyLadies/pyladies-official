@@ -17,3 +17,13 @@ Here are some of the websites I checked out:
 * [The Flatiron School](https://flatironschool.com)
 * [Codecademy](https://www.codecademy.com)
 * [Get Programming: Learn to code with Python](https://www.oreilly.com/library/view/get-programming-learn/9781617293788/)
+
+Organizers' note:
+Nancy has been to several Cleveland PyLadies meetups. Her enthusiasm and
+willingness to learn is inspiring. She even volunteered to make this change
+on camera so that we could make a Git demo for others to learn from! Check out
+[her awesome demo on our YouTube channel](https://youtu.be/Yg4l07Z6zZ0) and
+follow along if you need guidance or inspiration to make an open-source contribution.
+Way to go, Nancy! You rock.
+
+Photo credit: [Unsplash](https://www.flickr.com/photos/pictoquotes/15246861038)

@@ -1,4 +1,4 @@
-Title: Resources for PyLadies Organizers
+Title: Organizer Kit
 
 Cleveland PyLadies is a volunteer-run branch of the global volunteer-run PyLadies organization.
 We welcome contributions in many forms, including those interested in joinging our long-term organizer team.

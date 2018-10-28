@@ -2,7 +2,7 @@ Title: Read Me
 Date: 2018-09-16 09:03
 Modified: 2018-09-16 09:04
 Category: Blog
-Tags: Blog, Resources, Archive, Write, Speak, Code
+Tags: Resources, Archive, Write, Speak, Code
 Slug: archived-site
 Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Archived content from our original site. Read this post first if you're new here!

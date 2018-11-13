@@ -6,7 +6,7 @@ invoke==1.2.0
 Jinja2==2.10
 Markdown==3.0.1
 MarkupSafe==1.0
-pelican==3.7.1
+pelican==4.0.0
 Pygments==2.2.0
 python-dateutil==2.7.5
 pytz==2018.6

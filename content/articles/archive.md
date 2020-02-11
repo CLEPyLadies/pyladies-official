@@ -17,6 +17,22 @@ Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive 
 
 ## Connect with us!
 
+### Code of Conduct
+
+While we are in the process of reviewing and approving a formal code of conduct for our chapter, please review the following agreement before attending one of our events:
+
+As a local chapter of the global PyLadies oganization, we adhere to [the general guidelines set forth by PyLadies](https://www.pyladies.com/CodeOfConduct/).
+
+"Pyladies is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members to local PyLadies communities, but to anyone who chooses to become involved in the larger PyLadies community of users, developers and integrators through events or interactions.
+
+"Harassment includes offensive verbal/electronic comments related to personal characteristics or choices, sexual images or comments in public or online spaces, deliberate intimidation, bullying, stalking, following, harassing photography or recording, sustained disruption of talks, IRC chats, electronic meetings, physical meetings or other events, inappropriate physical contact, or unwelcome sexual attention. Participants asked to stop any harassing or bullying behavior are expected to comply immediately.
+
+"If a participant engages in harassing behavior, representatives of the community may take reasonable action they deem appropriate, including warning the offender, expulsion from any PyLadies event, or expulsion from mailing lists, IRC chats, discussion boards and other electronic communications channels to resolve the issue. This may include expulsion from PyLadies Meetup group membership.
+
+"If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from any member of the PyLadies community, IRC chat admins, website admins, or organizers/representatives of any physical events put on under the auspices of PyLadies.
+
+"This Code of Conduct has been adapted from the Plone Foundation and is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported license"
+
 ### Socials
 
 We currently have 3 active organizers that can be reached directly (cle at pyladies dot com) for questions. We are on [Twitter](https://www.twitter.com/CLEPyLadies/), [Facebook](https://www.facebook.com/clepyladies/), & [Instagram](https://www.instagram.com/CLEPyLadies/) as CLEPyLadies. We also love to promote local bloggers on [our Medium publication](https://medium.com/cleveland-pyladies/). Check out our upcoming events on [Meetup](https://www.meetup.com/CLE-PyLadies/)!

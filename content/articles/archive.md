@@ -3,7 +3,7 @@ Date: 2018-09-16 09:03
 Modified: 2020-02-11 09:59
 Category: About
 Tags: Resources, Archive, Write, Speak, Code, Conduct, Code of Conduct
-Slug: archived-site
+Slug: overview
 Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Content from our original site. Code of Conduct. Read this post first if you're new here!
 Pin: true

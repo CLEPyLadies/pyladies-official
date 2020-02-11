@@ -5,7 +5,7 @@ Category: Blog
 Tags: Resources, Archive, Write, Speak, Code
 Slug: archived-site
 Authors: Cleveland PyLadies, Marissa Utterberg
-Summary: Archived content from our original site. Read this post first if you're new here!
+Summary: Content from our original site. Code of Conduct. Read this post first if you're new here!
 Pin: true
 Image: images/HomeBanner.png
 
@@ -16,6 +16,10 @@ Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive 
 ---
 
 ## Connect with us!
+
+### Attend an event
+
+See [our event calendar on Meetup](http://meetu.ps/c/3VKlh/FXPfG/a) for a list of upcoming events.
 
 ### Code of Conduct
 

@@ -23,7 +23,7 @@ See [our event calendar on Meetup](http://meetu.ps/c/3VKlh/FXPfG/a) for a list o
 
 ### Code of Conduct
 
-While we are in the process of reviewing and approving a formal code of conduct for our chapter, please review the following agreement before attending one of our events:
+While we are in the process of drafting and approving a formal code of conduct for our chapter, please review the following agreement before attending one of our events:
 
 As a local chapter of the global PyLadies oganization, we adhere to [the general guidelines set forth by PyLadies](https://www.pyladies.com/CodeOfConduct/).
 

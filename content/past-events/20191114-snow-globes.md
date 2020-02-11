@@ -1,4 +1,4 @@
-Title: Making Halloween-themed Madlibs with Python
+Title: Making Holiday Snow Globes with Python
 Date: 2019-11-14 2:34 pm
 Modified: 2019-11-14 2:34 pm 
 Category: Past Events

@@ -37,7 +37,7 @@ PLUGINS = ['representative_image', 'pin_to_top', 'post_stats']
 # MAIN_MENU = True
 
 PATH = 'content'
-ARTICLE_PATHS = ['articles', 'blog']
+ARTICLE_PATHS = ['articles', 'blog', 'past-events']
 
 TIMEZONE = 'America/New_York'
 OG_LOCALE = 'en_US'

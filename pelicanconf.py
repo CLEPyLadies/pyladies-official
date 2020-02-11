@@ -59,9 +59,9 @@ LINKS = (('Upcoming Events', 'https://www.meetup.com/cle-pyladies'),
          ('PyLadies Global', 'https://www.pyladies.com'),)
 
 # Social widget
-SOCIAL = (('meetup', 'https://www.meetup.com/cle-pyladies'),
-          ('twitter', 'https://www.twitter.com/clepyladies'),
+SOCIAL = (('twitter', 'https://www.twitter.com/clepyladies'),
           ('facebook', 'https://www.facebook.com/clepyladies'),
+          ('meetup', 'https://www.meetup.com/cle-pyladies'),
           ('instagram', 'https://www.instagram.com/clepyladies'),
           ('slack', 'https://cleveland-tech.slack.com'),
           ('slack', 'https://slackin.pyladies.com'),

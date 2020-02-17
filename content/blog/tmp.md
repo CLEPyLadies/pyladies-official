@@ -1,5 +1,5 @@
 Title: Test
-Date: 2020-02-17 12:34 am
+Date: 2020-02-11 12:34 pm
 Category: Blog
 Tags: python, learning, programming, For Beginners
 Summary: Learning as a senior

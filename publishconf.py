@@ -21,7 +21,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-158598056-2"
 TWITTER_USERNAME = 'clepyladies'
 GITHUB_CORNER_URL = 'https://www.github.com/clepyladies/pyladies-official'
 

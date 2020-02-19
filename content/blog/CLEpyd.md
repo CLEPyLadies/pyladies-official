@@ -1,4 +1,4 @@
-Title: Read Me
+Title: What's New?
 Date: 2020-02-19 06:46
 Modified: 2020-02-19 06:46
 Category: blog
@@ -6,7 +6,6 @@ Tags: Python, meetup, PyLadies, sponsors
 Slug: CLEpyd
 Authors: Cleveland PyLadies, Marissa Utterberg
 Summary: Updates
-Pin: true
 Image: images/computer-cooperation-coworking-day.jpg
 
 What's new with Cleveland PyLadies? Well...we're glad you asked!

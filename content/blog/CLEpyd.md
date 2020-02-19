@@ -12,7 +12,7 @@ What's new with Cleveland PyLadies? Well...we're glad you asked!
 
 # Leadership
 
-We have recently added a new member to our leadership team: <ask-for-permission-to-name-her>!
+We have recently added a new member to our leadership team: Kjera!
 
 # Resources
 

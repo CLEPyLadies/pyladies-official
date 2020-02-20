@@ -5,7 +5,7 @@ Category: blog
 Tags: Python, meetup, PyLadies, sponsors
 Slug: CLEpyd
 Authors: Cleveland PyLadies, Marissa Utterberg
-Summary: Updates
+Summary: Exciting news from 2020 planning sessions!
 Image: images/computer-cooperation-coworking-day.jpg
 
 What's new with Cleveland PyLadies? Well...we're glad you asked!

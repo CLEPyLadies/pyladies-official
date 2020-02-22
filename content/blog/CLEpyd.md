@@ -19,7 +19,7 @@ We have recently added a new member to our leadership team: Kjera!
 ## Websites
 
 We are moving! Cleveland PyLadies web resources will soon point to the much
-shorter url __[clepyd.org](http://clepyd.org)__. So much less typing!
+shorter url __[clepyd.org](https://clepyd.org)__. So much less typing!
 
 In addition to our event calendar on [meetup.com](https://www.meetup.com/CLE-PyLadies/) and this blog,
 we are adding a web app (written in Django, of course) so that members can check in online.

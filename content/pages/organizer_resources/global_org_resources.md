@@ -21,8 +21,8 @@ quarterly organizer meetings help us set and monitor goals for our community.
 Long-term goals:
 
 * Provide opportunities for women* to engage in professional development in Python.
-  We aim to host 2 meetups per month, but we don't feel like this goal goes unmet
-  in the months that we are only able to host one meetup. Our work-life balance matters, too.
+  We aim to host 1 meetup per month, but we don't feel like this goal goes unmet
+  during times in which we only host 1-2 meetups in a quarter. Our work-life balance matters, too.
   
 * Foster a welcoming, beginner-friendly environment for women* 
 

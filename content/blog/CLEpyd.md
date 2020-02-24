@@ -14,6 +14,10 @@ What's new with Cleveland PyLadies? Well...we're glad you asked!
 
 We have recently added a new member to our leadership team: Kjera!
 
+Kjera works in the Office of Institutional Research at Kent State University and focuses on student equity, student success, and course data.
+Although a Python novice, Kjera sees how valuable Python can be to her work and is encouraged by the Cleveland PyLadies Mission and Values.
+She is excited to help bring PyLadies events to experienced and beginning Python enthusiasts in Northeast Ohio.
+
 # Resources
 
 ## Websites

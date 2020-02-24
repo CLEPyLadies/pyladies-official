@@ -1,6 +1,6 @@
 Title: What's New?
 Date: 2020-02-19 06:46
-Modified: 2020-02-19 06:46
+Modified: 2020-02-23 21:46
 Category: blog
 Tags: Python, meetup, PyLadies, sponsors
 Slug: CLEpyd

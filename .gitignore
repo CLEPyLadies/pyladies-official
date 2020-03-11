@@ -141,3 +141,6 @@ myvenv
 output
 pelicanconf_local.py
 *.pid
+
+.vscode
+.DS_Store

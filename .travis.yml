@@ -10,12 +10,12 @@ branches:
 # install dependencies
 install:
 - pip install --upgrade pip
-- pip install -r requirements.txt
-- pelican-themes -vi ./pelican-themes/Flex
+- pip install -r legacy_site/requirements.txt
+- pelican-themes -vi ./legacy_site/pelican-themes/Flex
 before_script:
-  - invoke --list
+  - cd legacy_site && invoke --list && cd ..
 script:
-  - invoke publish-carefully
+  - cd legacy_site && invoke publish-carefully
 
 deploy:
   provider: pages
